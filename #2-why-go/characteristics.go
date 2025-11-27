@@ -1,7 +1,7 @@
 // go mod init go-o11y   // creates a new module for your project
 // go mod tidy           // cleans and adds needed dependencies
 // go build              // builds the current folder into a binary
-// watch https://youtube.com/shorts/eL7iHiP3BDw?feature=share
+// watch https://youtube.com/shorts/MMkxYI1CfRA?feature=share
 
 package main
 
