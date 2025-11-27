@@ -20,7 +20,7 @@ Can you modify this program so each goroutine sleeps for a random duration
 and prints when it starts and ends?  
 (You’ll instantly see how Go handles massive parallel work.)
 
-watch https://www.youtube.com/shorts/2L_PM2ETioI
+watch https://youtube.com/shorts/wD9KRy3O3GQ?feature=share
 */
 
 
