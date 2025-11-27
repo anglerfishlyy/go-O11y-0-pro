@@ -1,4 +1,4 @@
-//watch https://www.youtube.com/shorts/mDOTVdflD28
+//watch https://youtube.com/shorts/DNwNqjclqFc?feature=share
 package main
 
 import "fmt"
